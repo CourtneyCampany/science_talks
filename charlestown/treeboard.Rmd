@@ -1,0 +1,162 @@
+---
+title: "Understanding the Ecophysiology of Urban Trees"
+date: Court Campany  <br />  `r format(Sys.time(), "%d %B, %Y")`
+output: 
+  ioslides_presentation:
+    css: custom.css
+    widescreen: true
+    smaller: true
+---
+
+## About me
+<hr>
+<br/>
+
+* **Assistant Professor, Shepherd University**
+
+<br />
+
+* **Plant Ecophysiologist**
+    + climate change, physiology, evolution
+* **Ecosystem Ecologist**
+    + global change
+
+<br />
+
+* **twitter: @court_campany**
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:550px; WIDTH:425px; HEIGHT:450px" SRC="images/me.jpg">
+
+<IMG STYLE="position:absolute; TOP:525px; LEFT:125px; WIDTH:150px; HEIGHT:150px" SRC="images/logo.jpg">
+
+## Experience with the landscape nursery industry
+<hr>
+
+<div style="float: right; width: 80%;">
+
+
+* **Post-doctoral position in collaboration with Hort Innovation Australia**
+    + Understand the role of root:shoot balance for landscape trees
+    + Evaluate the national standard for growing landscape trees
+
+<br />
+
+* **Year-long campaign to measure key traits for trees tagged as 'ready to sell"**
+    + 23 nurseries across Australian climate regions
+    + 14,000 trees surveyed nation-wide
+    + 18-3000 liter containerized trees tested
+    + >150 species measured
+
+<br />
+
+* **Outcomes: Delivered data-driven suggestions for better criteria to test Australian tree stock sold for landscape plantings**
+    + Current standards to restrictive
+    + Trees are too often rejected
+    + NEW national standard adopted
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:50px; WIDTH:150px; HEIGHT:300px" SRC="images/manor_nursery.jpg">
+
+## Experience in tree physiology
+<hr>
+<br />
+
+<div style="float: left; width: 57%;">
+
+* **Research career has explored how plants make food (photosynthesis) across multiple themes**
+    + global change (*Eucalyptus*)
+    + evolution (*Ferns*)
+    + stress (*Common Milkweed*)
+ 
+<br />
+ 
+* **Integrated plant hydraulics (water supply and transport) into recent research**
+
+<br /> 
+
+* **The urban environment makes all these processes harder for trees!!!**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:650px; WIDTH:400px; HEIGHT:350px" SRC="images/photo.jpg">
+
+## Why urban trees matter
+<hr>
+<br />
+
+<div style="float: right; width: 50%;">
+
+* **Healthy trees are integral to sustainable urban landscapes now and in the future.**
+
+<br />
+
+* **Never before have trees received the current level of attention as key component of sustainable urban design, delivering substantial benefits to ever growing cities.**
+
+<br />
+
+* **Services = cooling, storm water mitigation, carbon sequestration, improving air quality, biodiversity and property value**
+    + make cities more liveable
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:500px; HEIGHT:370px" SRC="images/heatisland.jpg">
+
+## Why physiology matters for urban trees
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:20px; WIDTH:600px; HEIGHT:400px" SRC="images/water.png">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:645px; WIDTH:400px; HEIGHT:400px" SRC="images/leaf2.gif">
+
+## The urban enivronment is an ecophysiological challenge
+<hr>
+<br />
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:15px; WIDTH:500px; HEIGHT:450px" SRC="images/stress2.png">
+
+<div style="float: right; width: 52%;">
+
+* **Informative sources for managing urban trees are numerous**
+    + planting guides
+    + maintenance plans
+    + species choice
+
+<br />
+
+* **None are directly related to tree physiology!!**
+    + mostly symptom based
+
+<br />
+
+* **Shouldn't we first understand how trees must alter their physiology to these stresses?**
+    + nursery &rarr; site planting &rarr; recovery &rarr; establishment and growth
+
+</div>
+
+## Charles Town as a research site for novel urban tree research
+<hr>
+
+<div style="float: left; width: 55%;">
+
+* **Models predict West Virginia could increase by 3 °F  in winter, spring, and summer  & 4 °F  in fall by 2100**
+    + new stresses for animals and plants
+    
+<br />
+
+* **More trees is an obvious local health benefit**
+
+<br />
+
+* **There is an important knowledge gap**
+
+<br />
+
+* **PLAN: Track and monitor aspects of physiology from nursery to establishment for newly planted urban trees in Chalestown, WV**
+    + Planting site with sufficient impervious surfaces
+    + Control site without (park)
+    + Utilize WV Forestry Demonstration Grant
+    
+ </div>   
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:620px; WIDTH:450px; HEIGHT:350px" SRC="images/charles.jpg">

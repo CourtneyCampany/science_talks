@@ -1,0 +1,575 @@
+---
+title: "How spore-bearing vascular plants make a living in an angiosperm world"
+date: Court Campany  <br />  `r format(Sys.time(), "%d %B, %Y")`
+output: 
+  ioslides_presentation:
+    css: custom.css
+    widescreen: true
+    smaller: true
+---
+
+## About me: Ecology can take you places
+<hr>
+<br/>
+<br />
+<br />
+<br />
+<br />
+
+* Plant Ecophysiologist  
+* Ecosystem Ecologist
+
+<br />
+<br />
+
+* www.courtneycampany.com  
+* twitter: @court_campany
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:375px; WIDTH:625px; HEIGHT:400px" SRC="images/me_pic.png">
+
+<div class="item-absolute6"> https://courtneycampany.shinyapps.io/sporeplantsrock/ </div>
+
+## Acknowledgements: Seed Free Society
+<hr>
+<br />
+
+<div style="right: left; width: 30%;">
+**<ins>Collaborators</ins>**:
+<br />
+<br />
+Alex Baer
+<br />
+**Juliette Bechard**
+<br />
+**Luke Calderaro**
+<br />
+Miquel Chaves
+<br />
+Helen Holmlund
+<br />
+Christopher Krieg
+<br />
+**Evelyn Lawson**
+<br />
+**Lindsey Martin**
+<br />
+**Marisa Olavarria**
+<br />
+Jarmila Pitterman
+<br />
+**Michael Reed**
+<br />
+Eric Schuettpelz
+<br />
+**Abby Sotomayor**
+<br />
+Eddie Watkins
+<br />
+**Jacob Watts**
+</div>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:350px; WIDTH:600px; HEIGHT:400px" SRC="images/logos.png">
+
+## Who are the spore-bearing vascular plants?
+<hr>
+<br />
+
+<IMG STYLE="position:absolute; TOP:175x; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/phylogeny2.jpg">
+
+## Conquering land and revolutionary experimentation
+<hr>
+<br />
+<br />
+<br />
+<br />
+
+<div style="float: right; width: 60%;">
+**<ins>Vascular tissues</ins>: “plumbing system"**
+
+<br />
+
+**<ins>Lignin</ins>: tough hydrophobic molecule for support**
+
+<br />
+
+**<ins>Leaves</ins>: rich in chloroplasts to maximize photosynthesis** 
+
+<br />
+
+**<ins>Roots</ins>: that absorb water and minerals from soil**
+</div>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:75px; WIDTH:300px; HEIGHT:460px" SRC="images/earlyplants.png">
+
+## Why do spore-bearing vascular plants matter: Ecology
+<hr>
+<br />
+
+<div class="item-absolute3">Ferns are ecosystem filters (George 1999, Coomes et al. 2005)</div>
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:250px; WIDTH:600px; HEIGHT:400px" SRC="images/redwood.jpeg">
+
+## Why do spore-bearing vascular plants matter: Coal
+<hr>
+<br />
+
+<IMG STYLE="position:absolute; TOP:165px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/coal_swamp2.jpg">
+
+<div class="item-absolute"> http://www.devoniantimes.org </div>
+
+## Why do spore-bearing vascular plants matter: Novel discovery
+<hr>
+
+<IMG STYLE="position:absolute; TOP:165px; LEFT:150px; WIDTH:750px; HEIGHT:460px" SRC="images/passive.jpg">
+
+<div class="item-absolute4">**"Ferns are an unwritten text and every time we look at them carefully we find something totally new." Watkins**</div>
+
+## Ferns diversified in the shadow of angiosperms, Schiender 2004
+<hr>
+<br />
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:10px; WIDTH:650px; HEIGHT:350px" SRC="images/angio_radiate.gif">
+
+<IMG STYLE="position:absolute; TOP:300px; LEFT:680px; WIDTH:400px; HEIGHT:200px" SRC="images/floweringplants.jpg">
+
+<div class="item-absolute2">**Darwin wrote in 1879: "An abominable mystery"**</div>
+
+## Ferns and lycophytes now exist in diverse habitats
+<hr>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/fern_habitats.png">
+
+## Form and function in biology
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:800px; HEIGHT:450px" SRC="images/rabbits.png">
+
+## Plant form and plant function: Stomata
+<hr>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:50px; WIDTH:1000px; HEIGHT:500px" SRC="images/stomata_traits.png">
+
+## Examining plant form and function through trait ecology
+<hr>
+<br />
+
+<div style="float: right; width: 45%;">
+
+**Plants try to optimize function:**
+<br />
+
+1) maximize carbon gain (photosynthesis)
+2) transport water and carbohydrates
+2) grow and/or invest efficiently
+3) reproduction
+
+<br />
+
+**Global strategies in vascular plant traits:**
+<br />
+
+1) thick vs thin leaves
+2) small seeds vs large seeds
+3) allocation of nitrogen
+4) fast vs slow growth
+5) conservative or risky water use
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:215px; LEFT:125px; WIDTH:350px; HEIGHT:450px" SRC="images/traits.png">
+
+## Global plant form and function: Angiosperm-centric
+<hr>
+
+<IMG STYLE="position:absolute; TOP:150px; LEFT:50px; WIDTH:1000px; HEIGHT:500px" SRC="images/diaz.png">
+
+## Spore-bearing plants: Alternation of generations
+<hr>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:50px; WIDTH:700px; HEIGHT:500px" SRC="images/life_cycle2.jpg">
+
+<IMG STYLE="position:absolute; TOP:185px; LEFT:825px; WIDTH:150px; HEIGHT:450px" SRC="images/fern_life.png">
+
+## How do spore-bearing plants succeed in tropical forests?
+<hr>
+<br />
+<br />
+
+<div style="float: left; width: 55%;">
+
+* **How plastic are functional traits across habitats?**
+    + heterogeneous forest floors
+    + terrestrial vs epiphytes
+
+<br />
+
+* **Do coexisting lineages of spore-bearing plants differ in their ecophysiology?**
+    + ferns vs *Selaginella*
+
+<br />
+
+* **How critical is the gametophyte generation?**
+    + reproductive strategies
+    + sperm physiology
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:215px; LEFT:595px; WIDTH:450px; HEIGHT:400px" SRC="images/ferns_sela.png">
+
+## *Selaginella* ecophysiology across heterogeneous forest floors
+<hr>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:50px; WIDTH:500px; HEIGHT:300px" SRC="images/sela_spp.png">
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:625px; WIDTH:400px; HEIGHT:500px" SRC="images/Figure_1.jpeg">
+
+## *Selaginella* leaf anatomical traits differ
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/stodens.jpeg">
+
+<IMG STYLE="position:absolute; TOP:210px; LEFT:600px; WIDTH:400px; HEIGHT:395px" SRC="images/stomata_ex.png">
+
+## Does &uarr; stomata = &uarr; photosynthesis?
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/stodens.jpeg">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:450px; HEIGHT:450px" SRC="images/photo.jpeg">
+
+## *Selaginella* physiological traits also differ in shade
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/chlorophyll.jpeg">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:450px; HEIGHT:450px" SRC="images/nitro.jpeg">
+
+## Coexisting ferns and *Selaginella* function differently in the shade
+<hr>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:800px; WIDTH:225px; HEIGHT:450px" SRC="images/mega_micro.png">
+
+## Coexisting ferns and *Selaginella* function differently in the shade
+<hr>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:50px; WIDTH:700px; HEIGHT:400px" SRC="images/stomata.jpeg">
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:800px; WIDTH:225px; HEIGHT:450px" SRC="images/mega_micro.png">
+
+## Do spore-bearing plants live by the same rules?
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:300px" SRC="images/3dscatter.png">
+
+<IMG STYLE="position:absolute; TOP:550px; LEFT:200px; WIDTH:700px; HEIGHT:100px" SRC="images/annalspaper.png">
+
+## A funny thing happened on the way to the Cretaceous....
+<hr>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:10px; WIDTH:650px; HEIGHT:350px" SRC="images/angio_radiate.gif">
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:675px; WIDTH:425px; HEIGHT:400px" SRC="images/epi_species.png">
+
+## Epiphytes are important in tropical plant ecology
+<hr>
+<br />
+<br />
+
+<div style="float: right; width: 59%;">
+
+* **Major component of rainforest biodiversity** 
+    + orchids, cacti, bromeliads, lichens, mosses and **ferns**
+    + ~40% biomass in cloud rainforests (Nadkarni 1989)
+    
+<br />
+
+* **Evolved numerous times in vascular plant lineages**
+    + 31% of ferns species are epiphytes
+
+<br />
+
+* **Do not extract water or nutrients from the host plant or the ground** 
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:215px; LEFT:10px; WIDTH:440px; HEIGHT:350px" SRC="images/epiphyte.jpg">
+
+## What plant traits led to the transition and success of epiphytes?
+<hr>
+<br />
+<br />
+<br />
+<br />
+<br />
+
+<div style="float: right; width: 50%;">
+
+* **Wild west compared to forest floor**
+    + high light
+    + low pH
+    + limited water
+    + minimal soil
+    + low access to nutrients
+</div>
+
+<IMG STYLE="position:absolute; TOP:185px; LEFT:100px; WIDTH:350px; HEIGHT:450px" SRC="images/treeclimb.jpg">
+
+## Comparing related fern groups from ground to canopy
+<hr>
+<br />
+<br />
+
+<div style="float: left; width: 50%;">
+
+* **35 species**
+
+<br />
+
+* **Terrestrial and epiphytic habitats**
+    + 2 sites in Costa Rica
+      
+<br />
+
+* **Suite of functional traits**
+    + morphological
+    + anatomical
+    + physiological
+      
+</div>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:630px; WIDTH:400px; HEIGHT:450px" SRC="images/working.jpg">
+
+<IMG STYLE="position:absolute; TOP:375px; LEFT:360px; WIDTH:250px; HEIGHT:300px" SRC="images/morphology.png">
+
+## Large shifts in leaf structure
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/laminasize.jpeg">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:450px; HEIGHT:450px" SRC="images/lma.jpeg">
+
+## Epiphytic ferns should be built to resist wilting
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:15px; WIDTH:300px; HEIGHT:450px" SRC="images/pvfern.JPG">
+
+<IMG STYLE="position:absolute; TOP:300px; LEFT:375px; WIDTH:250px; HEIGHT:250px" SRC="images/wilt_fern.jpg">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:650px; WIDTH:450px; HEIGHT:450px" SRC="images/turgorlosspoint2.jpg">
+
+## Tolerance to the loss of turgor in cells
+<hr>
+
+<iframe width="250" height="315" 
+src="https://www.youtube.com/embed/M377CFmFYCA" frameborder="0" >
+</iframe>
+
+## Not really true.....
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/turgorlosspoint.jpeg">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:450px; HEIGHT:450px" SRC="images/turgorlosspoint2.jpg">
+
+## Epiphytes likely move water more efficiently
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/stipe.jpg">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:450px; HEIGHT:450px" SRC="images/xylem.jpeg">
+
+## Epiphytes likely move water more efficiently
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:10px; WIDTH:550px; HEIGHT:400px" SRC="images/xsection.jpg">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:450px; HEIGHT:450px" SRC="images/xylem.jpeg">
+
+## Epiphytes also have far fewer stomata!
+<hr>
+<br />
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/stomatadensity.jpeg">
+
+<IMG STYLE="position:absolute; TOP:275px; LEFT:525px; WIDTH:500px; HEIGHT:250px" SRC="images/stomata_compare.png">
+
+## 
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
+<div style="float: right; width: 35%;">
+**Epiphytic selection pressures drive trait evolution**
+
+<br />
+
+**Thin laminas (leaves) have terrestrial origins in tropical ferns**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:50px; WIDTH:600px; HEIGHT:600px" SRC="images/asr_lma.jpeg">
+
+## 
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
+<div style="float: right; width: 35%;">
+**Epiphytic selection pressures drive trait evolution**
+
+<br />
+
+**# of stomata diminish as ferns radiate into epiphytic niches**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:50px; WIDTH:600px; HEIGHT:600px" SRC="images/asr_stomata.jpeg">
+
+## Do spore-bearing plants live by the same rules?
+<hr>
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:200px; WIDTH:700px; HEIGHT:300px" SRC="images/3dscatter.png">
+
+## Do spore-bearing plants live by the same rules?
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:450px; HEIGHT:450px" SRC="images/pcashade.jpeg">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:525px; WIDTH:550px; HEIGHT:450px" SRC="images/plants.png">
+
+## Do spore-bearing plants live by the same rules?
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:450px; HEIGHT:450px" SRC="images/pca.jpeg">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:525px; WIDTH:550px; HEIGHT:450px" SRC="images/plants.png">
+
+## Take home: Why study anything else...
+<hr>
+<br />
+
+
+<div style="float: left; width: 50%;">
+
+* **Small in stature but BIG in importance**
+    + ecosystem function
+    + biodiversity
+    + novel insights into evolution
+
+<br />
+
+* **Ferns and lycophytes live differently**
+    + strategies to optimize physiology
+    
+<br /> 
+
+* **Canopy ferns must live differently**
+    + tolerance vs avoidance
+    + evolution of form & function
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:500px; WIDTH:550px; HEIGHT:400px" SRC="images/canopy_student.png">
+
+<div class="item-absolute5"> https://courtneycampany.shinyapps.io/sporeplants/ </div>
+
+
+<!-- ## Is it harder to have sex in the canopy? -->
+<!-- <hr> -->
+<!-- <br /> -->
+
+<!-- * **Comparative physiology of fern sperm** -->
+<!--     + longevity -->
+<!--     + velocity -->
+<!--     + competition -->
+
+<!-- <IMG STYLE="position:absolute; TOP:250px; LEFT:555px; WIDTH:450px; HEIGHT:350px" SRC="images/evie_fern.png"> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:380px; LEFT:125px; WIDTH:250px; HEIGHT:250px" SRC="images/fernsperm.png"> -->
+
+<!-- ## Do epiphytic ferns have super sperm? -->
+<!-- <hr> -->
+
+<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/9WA9qLQsvTM?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+
+<!-- ## Do epiphytic ferns have super sperm? -->
+<!-- <hr> -->
+
+<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/Unm5H2FVi3w?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+
+<!-- ## Course work & design @ ECSU -->
+<!-- <hr> -->
+<!-- <br /> -->
+
+
+<!-- <div style="float: left; width: 50%;"> -->
+
+<!-- * **Foundational biology** -->
+<!--     + majors / non-majors -->
+
+<!-- <br /> -->
+
+<!-- * **Plant organismal biology** -->
+<!--     + ecology -->
+<!--     + evolution -->
+<!--     + physiology -->
+
+<!-- <br />  -->
+
+<!-- * **Ecology** -->
+<!--     + general / field -->
+<!--     + ecosystem -->
+<!--     + urban -->
+<!--     + data science -->
+
+<!-- </div> -->
+
+<!-- <div style="float: right; width: 50%;"> -->
+
+<!-- * **Innovative course design** -->
+<!--     + jigsaw journal discussions -->
+<!--     + Grand Challenge Initiatives -->
+<!--     + coding -->
+
+<!-- <br /> -->
+
+<!-- * **Field-based learning** -->
+<!--     + skills development -->
+<!--     + science inquiry -->
+
+<!-- <</div> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:350px; LEFT:500px; WIDTH:450px; HEIGHT:325px" SRC="images/aspenface_me.jpg"> -->
+
+<!-- ## Student driven research program -->
+<!-- <hr> -->
+<!-- <br/> -->
+<!-- <br/> -->
+
+<!-- <div style="float: left; width: 45%;"> -->
+
+<!-- * **Trait ecology and physiology of spore-bearing plants** -->
+
+<!-- <br/> -->
+
+<!-- * **Connecting functional traits to conservation status of endangered Cycads** -->
+
+<!-- <br/> -->
+
+<!-- * **Carbon allocation of native trees under global change** -->
+
+<!-- <br/> -->
+
+<!-- * **Long-term monitoring of local ecosystem ecology** -->
+
+<!-- </div> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:225px; LEFT:510px; WIDTH:550px; HEIGHT:400px" SRC="images/research.png"> -->
+

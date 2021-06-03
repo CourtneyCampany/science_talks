@@ -1,0 +1,12 @@
+name: sporeplants
+title: sporeplants
+username:
+account: courtneycampany
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 682245
+bundleId: 1867190
+url: https://courtneycampany.shinyapps.io/sporeplants/
+when: 1549815574.9851
+asMultiple: FALSE
+asStatic: FALSE
