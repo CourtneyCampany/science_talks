@@ -36,8 +36,8 @@ output:
 
 
 * **Post-doctoral position in collaboration with Hort Innovation Australia**
-    + Understand the role of root:shoot balance for landscape trees
-    + Evaluate the national standard for growing landscape trees
+    + understand the role of root:shoot balance for landscape trees
+    + evaluate the national standard for growing landscape trees
 
 <br />
 
@@ -50,8 +50,8 @@ output:
 <br />
 
 * **Outcomes: Delivered data-driven suggestions for better criteria to test Australian tree stock sold for landscape plantings**
-    + Current standards to restrictive
-    + Trees are too often rejected
+    + current standards to restrictive
+    + trees are too often rejected
     + NEW national standard adopted
 
 </div>
@@ -117,7 +117,7 @@ output:
 
 <div style="float: right; width: 52%;">
 
-* **Informative sources for managing urban trees are numerous**
+* **Sources for managing urban trees are numerous**
     + planting guides
     + maintenance plans
     + species choice
@@ -129,7 +129,7 @@ output:
 
 <br />
 
-* **Shouldn't we first understand how trees must alter their physiology to these stresses?**
+* **Shouldn't we first understand how trees respond to these stresses?**
     + nursery &rarr; site planting &rarr; recovery &rarr; establishment and growth
 
 </div>
@@ -152,10 +152,11 @@ output:
 
 <br />
 
-* **PLAN: Track and monitor aspects of physiology from nursery to establishment for newly planted urban trees in Chalestown, WV**
-    + Planting site with sufficient impervious surfaces
-    + Control site without (park)
-    + Utilize WV Forestry Demonstration Grant
+* **PLAN: Track and monitor aspects of physiology from nursery to establishment for newly planted urban trees in Charles Town, WV**
+    + planting site with sufficient impervious surfaces
+    + control site without (park)
+    + utilize WV Forestry Demonstration Grant
+    + May-June field campaing (grant pending)
     
  </div>   
 
