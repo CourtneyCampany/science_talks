@@ -15,7 +15,6 @@ output:
 <div style="right: left; width: 30%;">
 
 * **Assistant Professor, Shepherd University**
-    + long road to academia
     
 <br />
 
@@ -44,7 +43,8 @@ output:
 <div style="right: left; width: 60%;">
 
 * **Assistant Professor, Shepherd University**
-
+    + long road to academia
+    
 <br />
 <br />
 <br />
@@ -66,7 +66,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:625px; WIDTH:425px; HEIGHT:450px" SRC="images/me.jpg">
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:125px; WIDTH:150px; HEIGHT:150px" SRC="images/logo.jpg">
+<IMG STYLE="position:absolute; TOP:270px; LEFT:125px; WIDTH:150px; HEIGHT:150px" SRC="images/logo.jpg">
 
 ## Acknowledgements: Seed Free Society
 <hr>
@@ -182,18 +182,17 @@ Eddie Watkins
 <hr>
 <br />
 
-<IMG STYLE="position:absolute; TOP:245px; LEFT:10px; WIDTH:650px; HEIGHT:350px" SRC="images/angio_radiate.gif">
+<IMG STYLE="position:absolute; TOP:245px; LEFT:5px; WIDTH:550px; HEIGHT:300px" SRC="images/angio_radiate.gif">
 
-<IMG STYLE="position:absolute; TOP:150px; LEFT:680px; WIDTH:400px; HEIGHT:200px" SRC="images/floweringplants.jpg">
+<IMG STYLE="position:absolute; TOP:170px; LEFT:620px; WIDTH:400px; HEIGHT:200px" SRC="images/floweringplants.jpg">
 
-<IMG STYLE="position:absolute; TOP:360px; LEFT:715px; WIDTH:325px; HEIGHT:325px" SRC="images/testo.png">
+<!-- <IMG STYLE="position:absolute; TOP:360px; LEFT:715px; WIDTH:325px; HEIGHT:325px" SRC="images/testo.png"> -->
 
-<div class="item-absolute2">**Darwin wrote in 1879: "An abominable mystery"**</div>
 
-## Extant ferns do exist in diverse habitats
-<hr>
+<!-- <!-- ## Extant ferns do exist in diverse habitats -->
+<!-- <!-- <hr> -->
 
-<IMG STYLE="position:absolute; TOP:175px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/fern_habitats.png">
+<IMG STYLE="position:absolute; TOP:380px; LEFT:570px; WIDTH:500px; HEIGHT:275px" SRC="images/fern_habitats.png">
 
 ## Form and function in biology
 <hr>
@@ -209,7 +208,7 @@ Eddie Watkins
 <hr>
 <br />
 
-<div style="float: right; width: 45%;">
+<div style="float: right; width: 50%;">
 
 **Plants try to optimize function:**
 <br />
@@ -217,7 +216,7 @@ Eddie Watkins
 1) maximize carbon gain (photosynthesis)
 2) transport water and carbohydrates
 2) grow and/or invest efficiently
-3) reproduce
+3) reproduction (seeds)
 
 <br />
 
@@ -232,7 +231,7 @@ Eddie Watkins
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:215px; LEFT:125px; WIDTH:350px; HEIGHT:450px" SRC="images/traits.png">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:75px; WIDTH:400px; HEIGHT:500px" SRC="images/traits.png">
 
 ## Global plant form and function: Angiosperm-centric
 <hr>
@@ -303,25 +302,6 @@ Eddie Watkins
 
 <IMG STYLE="position:absolute; TOP:175px; LEFT:800px; WIDTH:225px; HEIGHT:450px" SRC="images/mega_micro.png">
 
-## Do spore-bearing plants live by the same rules?
-<hr>
-<br />
-<br />
-
-* Photosynthetic rate
-* Stomatal conductance
-* Leaf phosphorous
-* Leaf nitrogen
-* Stomatal density
-* Stomatal size
-* Light compensation point
-* Water-use efficiency
-* Chlorophyll content
-* Leaf thickness
-* Carbon : Nitrogen ratio
-
-<IMG STYLE="position:absolute; TOP:235px; LEFT:350px; WIDTH:700px; HEIGHT:300px" SRC="images/3dscatter.png">
-
 ## E2: Comparing plant lineages in shade and sun
 <hr>
 
@@ -331,7 +311,7 @@ Eddie Watkins
 
 <br />
 
-* **Under-story low-light vs 0pen-canopy high light**
+* **Under-story low-light vs open-canopy high light**
     + 2 field sites in upstate NY
       
       
@@ -375,7 +355,6 @@ Eddie Watkins
     
 </div>
 
-
 ## E2: Angiosperms exhibit more plasticity in traits with &uparrow; light
 <hr>
 <br />
@@ -401,6 +380,25 @@ Eddie Watkins
 
 <IMG STYLE="position:absolute; TOP:50px; LEFT:200px; WIDTH:650px; HEIGHT:650px" SRC="images/interactionplot.jpeg">
 
+## Do spore-bearing plants live by the same rules?
+<hr>
+<br />
+<br />
+
+* Gas exchange
+* Photosynthetic biochemistry
+* Leaf phosphorous
+* Leaf nitrogen
+* Stomatal traits
+* Light compensation point
+* Water-use efficiency
+* Chlorophyll content
+* Leaf thickness
+<br />
+* Spore-traits?
+
+<IMG STYLE="position:absolute; TOP:235px; LEFT:350px; WIDTH:700px; HEIGHT:300px" SRC="images/3dscatter.png">
+
 ## A funny thing happeed on the way to the Cretaceous....
 <hr>
 
@@ -411,12 +409,12 @@ Eddie Watkins
 ## Epiphytes are important in tropical plant ecology
 <hr>
 <br />
-
-<div style="float: right; width: 50%;">
+<br />
+<div style="float: right; width: 55%;">
 
 * **Major component of rainforests biodiversity** 
     + orchids, cacti, bromeliads, lichens, mosses and **ferns**
-    + up to 40% biomass in cloud rainforest (Nadkarni 1989)
+    + up to 40% of plant biomass in cloud rainforest    (Nadkarni 1989)
 
 <br />
 
@@ -428,7 +426,7 @@ Eddie Watkins
     + 31% of ferns species are epiphytes
 </div>
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:50px; WIDTH:450px; HEIGHT:350px" SRC="images/epiphyte.jpg">
+<IMG STYLE="position:absolute; TOP:215px; LEFT:20px; WIDTH:450px; HEIGHT:350px" SRC="images/epiphyte.jpg">
 
 ## What plant traits led to the transition and success of epiphytes?
 <hr>
@@ -458,7 +456,7 @@ Eddie Watkins
 
 <br />
 
-* **Terrestrial, hemi-epiphytic and epiphtic niches**
+* **Terrestrial, *hemi-epiphytic* and epiphtic niches**
     + 2 field sites in Costa Rica
       
 <br />
@@ -496,13 +494,12 @@ Eddie Watkins
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:650px; WIDTH:450px; HEIGHT:400px" SRC="images/turgorlosspoint2.jpg">
 
-
 ## Epiphytes likely move water more efficiently
 <hr>
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:25px; WIDTH:500px; HEIGHT:500px" SRC="images/stipe.jpg">
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:575px; WIDTH:500px; HEIGHT:500px" SRC="images/xylem.jpeg">
+<IMG STYLE="position:absolute; TOP:170px; LEFT:575px; WIDTH:500px; HEIGHT:500px" SRC="images/fernmorph.png">
 
 ## Epiphytes likely move water more efficiently
 <hr>
