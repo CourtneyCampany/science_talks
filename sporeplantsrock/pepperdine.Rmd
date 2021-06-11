@@ -73,7 +73,7 @@ output:
 <br />
 
 <div style="right: left; width: 30%;">
-**<ins>Colloboartors</ins>**:
+**<ins>Collaborators</ins>**:
 <br />
 <br />
 Alex Baer
@@ -170,14 +170,6 @@ Eddie Watkins
 
 **"Ferns are an unwritten text and every time we look at them carefully we find something totally new." Eddie Watkins**
 
-<!-- ## Why do spore-bearing vascular plants matter: Coal -->
-<!-- <hr> -->
-<!-- <br /> -->
-
-<!-- <IMG STYLE="position:absolute; TOP:165px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/coal_swamp2.jpg"> -->
-
-<!-- <div class="item-absolute"> http://www.devoniantimes.org </div> -->
-
 ## 'Ferns diversified in the shadow of angiosperms' Schiender 2004
 <hr>
 <br />
@@ -187,10 +179,6 @@ Eddie Watkins
 <IMG STYLE="position:absolute; TOP:170px; LEFT:620px; WIDTH:400px; HEIGHT:200px" SRC="images/floweringplants.jpg">
 
 <!-- <IMG STYLE="position:absolute; TOP:360px; LEFT:715px; WIDTH:325px; HEIGHT:325px" SRC="images/testo.png"> -->
-
-
-<!-- <!-- ## Extant ferns do exist in diverse habitats -->
-<!-- <!-- <hr> -->
 
 <IMG STYLE="position:absolute; TOP:380px; LEFT:570px; WIDTH:500px; HEIGHT:275px" SRC="images/fern_habitats.png">
 
@@ -412,7 +400,7 @@ Eddie Watkins
 <br />
 <div style="float: right; width: 55%;">
 
-* **Major component of rainforests biodiversity** 
+* **Major component of rainforest biodiversity** 
     + orchids, cacti, bromeliads, lichens, mosses and **ferns**
     + up to 40% of plant biomass in cloud rainforest    (Nadkarni 1989)
 
