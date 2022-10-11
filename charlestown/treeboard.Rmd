@@ -8,6 +8,62 @@ output:
     smaller: true
 ---
 
+## About me: Ecology can take you places
+<hr>
+<br/>
+
+<div style="right: left; width: 30%;">
+
+* **Assistant Professor, Shepherd University**
+    
+<br />
+
+* **Plant Ecophysiologist**
+    + climate change
+    + physiology
+    + evolution
+    
+<br />
+
+* **Ecosystem Ecologist**
+    + global change
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:375px; WIDTH:650px; HEIGHT:400px" SRC="images/me_pic.png">
+
+## About me: Ecology can take you places
+<hr>
+<br/>
+
+<div style="right: left; width: 60%;">
+
+* **Assistant Professor, Shepherd University**
+    + long road to academia
+    
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
+* **Love to teach!!**
+
+<br />
+
+* **Community oriented projects to cure 'Plant Blindness'**
+    + Tree Campus USA
+    + Monarch Butterfly waystations
+    + Urban tree benefits
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:625px; WIDTH:425px; HEIGHT:450px" SRC="images/me.jpg">
+
+<IMG STYLE="position:absolute; TOP:270px; LEFT:125px; WIDTH:150px; HEIGHT:150px" SRC="images/logo.jpg">
+
 ## About me
 <hr>
 <br/>
@@ -156,7 +212,7 @@ output:
     + planting site with sufficient impervious surfaces
     + control site without (park)
     + utilize WV Forestry Demonstration Grant
-    + May-June field campaing (grant pending)
+    + May-June field campaign (grant pending)
     
  </div>   
 

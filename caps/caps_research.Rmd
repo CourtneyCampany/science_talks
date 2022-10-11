@@ -1,0 +1,410 @@
+---
+title: "CAPS Seminar 2: Research Opportunites in STEM"
+date: Sys.time(), "%d %B, %Y")`
+output: 
+  ioslides_presentation:
+    css: custom.css
+    widescreen: true
+    smaller: true
+---
+
+## Beyond the classroom: Opportunites are vast
+<hr>
+
+<div style="float: left; width: 65%;">
+
+* **Research opportunities exist year round**
+    + Shepherd - Independent research (fall/spring)
+    + Shepherd - Summer programs
+    + Regionally - Partnerships for West Virginia Students
+    + Nationally (and beyond) - Semester and summer programs
+    
+<br />
+
+* **Internships (paid or unpaid)**
+    + Industry
+    + Healthcare
+    + Animal Care
+    + Data Science
+    
+<br />
+
+* **Study Abroad programs**
+    + summer, semester and year long
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:680px; WIDTH:375px; HEIGHT:500px" SRC="images/aquateam.jpg">
+
+## Why should you pursue research opporunities?
+<hr>
+<br/>
+
+<div style="float: right; width: 65%;">
+
+* **Test the waters...**
+    + Is this something I could see myself doing?
+    + Helen (Dr. C's fern nerd friend) wanted to be a vet so bad....
+    
+<br />
+
+* **Set your resume apart...**
+    + STEM job market is competitive
+    + Graduating undergraduate resumes are 'light on content'
+    + output from research = currency for future opportunities
+    
+<br />
+
+* **Gain experience in chosen field...**
+    + embrace your natural science curiosity
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:240px; LEFT:15px; WIDTH:350px; HEIGHT:350px" SRC="images/why.jpg">
+
+## Why should you pursue research opporunities?
+<hr>
+<br/>
+<br/>
+<br/>
+
+<div style="float: right; width: 60%;">
+
+* **Create a network...**
+    + Many future opportunities are created by YOU
+    + collborations can last your whole career
+
+<br />
+
+* **Broaden your horizons...**
+    + work with people from all background due to the global nature of science
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:230px; LEFT:15px; WIDTH:400px; HEIGHT:300px" SRC="images/global.jpg">
+
+## Dr. C's undergraduate experiences...
+<hr>
+<br/>
+
+<div style="float: left; width: 50%;">
+
+* **Study Abroad Costa Rica: Medicinal Plants**
+    + paid for by summerwork at golf course
+    + 5 week coarse in July
+    
+<br />
+
+* **Study Abroad Costa Rica: Primate Behavior**
+    + paid for by summerwork at golf course
+    + 5 week coarse in December
+
+<br />
+
+* **Greenhouse internship at BASF (chemical corporation)**
+    + $7/hr - I was rich!!!
+ 
+</div>
+
+<div style="float: right; width: 50%;">
+ 
+**<span style="color:blue">Although I was too immature to know it at the time, these experiences defined by future path**</span>
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:300px; LEFT:625px; WIDTH:300px; HEIGHT:300px" SRC="images/costacourt.jpg">
+
+## Do I have your attention?!? - When should you start???
+<hr>
+<br />
+
+<div style="float: left; width: 80%;">
+
+* **Power through your first year and focus on grades**
+    + Set a standard for yourself
+    + Don't be afraid to be excellent
+    + Dr. C gives a pass for f-ing off your first summer
+
+<br />
+
+* **Sophomore and Junior Years are ideal**
+    + You should be in a 'college groove'
+    + Many external programs target these years
+    + Enough time to complete meaningful independent research
+    + Build your resume in a sustainable way that also balances school
+
+<br />
+
+* <span style="color:darkred">**These are just suggestions!!!**</span>
+    + Reflect on every semester and decide what you can, should and want to do
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:620px; WIDTH:400px; HEIGHT:250px" SRC="images/started.jpg">
+
+## How do you even know where to start....
+<hr>
+<br />
+<span style="color:blue">**Don't worry...the different science departments at Shepherd have your back!!**</span>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:200px; WIDTH:600px; HEIGHT:350px" SRC="images/scott.jpg">
+
+## Shepherd: Many faculty run small research programs
+<hr>
+
+* **Do some background work:**
+    + Look at faculty profiles on department webpages
+    + Build relationships with professors during courses
+    + Search their research history online (Google Scholar)
+    
+<br />
+
+* **Express an interest in related research to a faculty that resonates with you**
+    + have some common interests to discuss
+    + <span style="color:red">DO NOT</span>: Hey Dr. C, I want research experience for med school, can I work in your lab?
+    + You do not have to have a solid project in mind
+  
+<br />
+
+* **The realities of undergraduate research at Shepherd...**
+    + faculty teach a lot! (this differs from other places)
+    + faculty have limited time for research (Dr. C = Tuesday morning)
+    + Don't take it personally if we have to say 'no'
+    
+<IMG STYLE="position:absolute; TOP:440px; LEFT:775px; WIDTH:275px; HEIGHT:200px" SRC="images/david.jpg">
+
+<IMG STYLE="position:absolute; TOP:150px; LEFT:775px; WIDTH:275px; HEIGHT:180px" SRC="images/turtle.jpg">
+
+## Shepherd University: Internal research programs
+<hr>
+
+* **Shepherd Opportunities to Attract Research Students (SOARS) program**
+    + 10 week summer research program
+    + students receive a stipend (~$4,000)
+    + individual faculty mentors across STEM departments
+    + research presented at WVAS conference
+    + applications and mentor list posted in January
+    + applications due in February
+
+<br />
+
+* **NASA West Virginia Space Grant Consortium fellowship program**
+    + students apply in September (all STEM fields)
+    + receive stipends for Fall and Spring research
+    + present a poster at WVAS
+
+<br />
+
+* <span style="color:blue">**KEY ADVICE: Talk to potential mentors before applying**</span>
+    
+
+<IMG STYLE="position:absolute; TOP:170px; LEFT:750px; WIDTH:250px; HEIGHT:250px" SRC="images/sheps.png">
+
+<IMG STYLE="position:absolute; TOP:420px; LEFT:750px; WIDTH:250px; HEIGHT:250px" SRC="images/nasa.png">
+
+## Beyond Shepherd: Regional opportunties are vast
+<hr>
+
+* **West Virginia INBRE - Biomedical Summer Research (http://www.wv-inbre.net/)**
+    + competitive federal research program of the National Institutes of Health
+    + open to the network of WV undergraduate institutions
+    + mentored research at WVU or Marshall University
+
+<br />
+
+* **Program specifics**
+    + students receive a stipend (~$4,500)
+    + 9-week summer program
+    + work with faculty and graduate students
+    + present at research symposium
+
+<br />
+
+* **Lots of research topics: genetics and health, cancer biology, neurobiology, etc.**
+    + covers many science disciplines
+
+<IMG STYLE="position:absolute; TOP:280px; LEFT:700px; WIDTH:225px; HEIGHT:225px" SRC="images/inbre.jpg">
+
+## Beyond Shepherd: Regional opportunties are vast
+<hr>
+
+* **American Heart Association - Summer Research Program at Marshall University**
+    + https://jcesom.marshall.edu/research/office-of-research-and-graduate-education/research-clusters/cardiovascular-disease-research-cluster-cdrc/
+    + 9-week summer research experience 
+    + students receive a stipend (~$6,000)
+    + research related to heart disease and stroke
+    + present research at a conference
+    
+<br />
+
+* **Smithsonian Environmental Research Center (SERC) internships**
+    + https://serc.si.edu/internships
+    + research experiences cover environmental chemistry, marine and estuarine ecology, molecular ecology, and terrestrial ecology
+    
+<br /> 
+
+* **Smithsonian Institution internships**
+    + https://www.si.edu/ofi   
+    + musuem - zoo - research
+    
+<IMG STYLE="position:absolute; TOP:225px; LEFT:730px; WIDTH:250px; HEIGHT:150px" SRC="images/ama.png">
+
+<IMG STYLE="position:absolute; TOP:550px; LEFT:630px; WIDTH:400px; HEIGHT:100px" SRC="images/serc.png">
+
+## Beyond Shepherd: Pathway Programs are close (and far)
+<hr>
+<br />
+    
+* **Pathways Programs at National Parks (Shenandoah NP)**
+    + https://www.nps.gov/aboutus/pathways.htm
+    + paid internships to explore park service careers
+    
+<br />
+
+* **Pathways Programs at USGS (e.g., Reston, VA)**
+    + https://www.usgs.gov/human-capital/pathways-internship-program  
+
+ <br />
+
+* **Pathways Programs at the USDA**
+    + https://www.usda.gov/youth/career
+    + Fruit research center near Kearneysville, WV
+    
+<br />
+
+**Get to know https://www.usajobs.gov/ for all federal gov't opportunities**
+
+<IMG STYLE="position:absolute; TOP:445px; LEFT:775px; WIDTH:300px; HEIGHT:300px" SRC="images/usajobs.jpg">
+
+<IMG STYLE="position:absolute; TOP:185px; LEFT:675px; WIDTH:250px; HEIGHT:100px" SRC="images/parthways.jpg">
+    
+## Beyond Shepherd: Industry internships are vast
+<hr>
+
+* **Available for many disciplines (chemistry, biology, engineering, etc.)**
+
+<br />
+
+* **Merck Pharmaceutical internships:**
+    + https://jobs.merck.com/us/en/student-opportunities
+    + https://jobs.merck.com/us/en/interns
+
+<br />
+
+* **Proctor & Gample Internships:**
+    + https://www.pgcareers.com/internships
+
+<br />
+
+* **Eli Lilly Internships:**
+    + https://careers.lilly.com/us/en/
+
+<br />
+
+* **BASF Internships:**
+    + https://www.basf.com/us/en/careers/students/internship.html
+    
+<IMG STYLE="position:absolute; TOP:340px; LEFT:550px; WIDTH:500px; HEIGHT:300px" SRC="images/industry.png">
+
+## DC and Frederick, MD are hotbeds for biotechnology
+<hr>
+**https://www.biospace.com/biocapital/** - Therapeutics and Vaccines development are thriving
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:750px; HEIGHT:550px;" SRC="images/biotech.png">
+
+## Find and use the listservs - job sites for your field of interest
+<hr>
+* **A few large science job boards exists**
+    + https://jobs.sciencecareers.org/
+    + not always great for internships
+
+<br />
+
+* **Ecology and Environmental biology**
+    + ECOLOG-L (hosted by Ecological Society of America)
+    
+<br />
+
+* **Many national societies have opportunity boards by career stage:**
+    + Cell Biology: https://jobs.ascb.org/
+    + Biochemistry and Molecular Biology:  https://careers.asbmb.org/
+    + Ecology: https://www.esa.org/career-development/
+    + Chemistry: https://getexperience.acs.org/
+    + Chemistry: http://global.acs.org/
+    + Engineering: https://www.asee.org/education-jobs/FELLOWSHIPS/EcoCAR
+    
+<IMG STYLE="position:absolute; TOP:160px; LEFT:630px; WIDTH:400px; HEIGHT:200px" SRC="images/jobboard.jpg">
+    
+## Gold Standard Opportunites: NSF-REU
+<hr>
+* **National Science Foundation - Research Experience for Undergraduates**
+    + https://www.nsf.gov/crssprgm/reu/reu_search.jsp
+    + students receive a stipend (~$6,000)
+    + assitance with travel and housing provided
+    + provides additional career training
+    + groups of ~10 undergraduates at a host institution
+
+<br />
+
+* **NSF REU programs cover most STEM disciplines**
+    + many REU sites across the USA
+    + target sophomore and junior (not a hard rule)
+
+<br />
+
+* **NSF REU's are extremely competitive**
+    + application window: November - February (you must actively search)
+    + likely need to apply for many in one cycle
+    + Shepherd students are absolutely competitive!
+
+<IMG STYLE="position:absolute; TOP:275px; LEFT:650px; WIDTH:410px; HEIGHT:150px;" SRC="images/reu.jpg">  
+
+## Gold Standard Opportunites: NIH-SIP
+<hr>
+<br />
+
+* **National Institute of Health - Summer Internship program**
+    + https://www.training.nih.gov/programs/sip
+    + spend summer working with leading biomedical researchers
+    + 8-week program with a stipend (changes yearly)
+    + provides additional career training
+    + present at symposium 
+    + Main campuses are near Baltimore & DC (others exist)
+
+<br />
+
+* **NIH SIP's are extremely competitive**
+    + Application window: opens November 15th
+
+<br />
+
+* **Provide webinars and resources to help you apply**
+    + see website
+    
+<IMG STYLE="position:absolute; TOP:350px; LEFT:650px; WIDTH:410px; HEIGHT:150px;" SRC="images/nih.jpg">  
+  
+## Just go for it!!
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:800px; HEIGHT:450px;" SRC="images/fishing.jpg">
+
+## Plug for Next Caps Series: Nov 9th
+<hr>
+<br />
+<br />
+
+* **<span style="color:red">NEVER APPLY BLINDLY</span>**
+    + Let us review your application materials
+
+<br />
+
+* **Be prepared to apply to many things**
+    + Get your application materials organized
+
+<br />
+
+* **<span style="color:blue">See you next month!!</span>**
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:650px; WIDTH:400px; HEIGHT:300px" SRC="images/help.jpg">
+
+<IMG STYLE="position:absolute; TOP:450px; LEFT:350px; WIDTH:225px; HEIGHT:225px" SRC="images/send2.jpg">
