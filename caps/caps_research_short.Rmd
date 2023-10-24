@@ -61,91 +61,91 @@ output:
 
 <IMG STYLE="position:absolute; TOP:240px; LEFT:15px; WIDTH:350px; HEIGHT:350px" SRC="images/why.jpg">
 
-## Why should you pursue research opporunities?
-<hr>
-<br/>
-<br/>
-<br/>
+<!-- ## Why should you pursue research opporunities? -->
+<!-- <hr> -->
+<!-- <br/> -->
+<!-- <br/> -->
+<!-- <br/> -->
 
-<div style="float: right; width: 60%;">
+<!-- <div style="float: right; width: 60%;"> -->
 
-* **Create a professional network**
-    + Many future opportunities are created by YOU
-    + Collaborations can last your whole career
+<!-- * **Create a professional network** -->
+<!--     + Many future opportunities are created by YOU -->
+<!--     + Collaborations can last your whole career -->
 
-<br />
+<!-- <br /> -->
 
-* **Broaden your horizons...**
-    + Work with people from all background due to the global nature of science
+<!-- * **Broaden your horizons...** -->
+<!--     + Work with people from all background due to the global nature of science -->
 
-</div>
+<!-- </div> -->
 
-<IMG STYLE="position:absolute; TOP:230px; LEFT:25px; WIDTH:400px; HEIGHT:300px" SRC="images/global.jpg">
+<!-- <IMG STYLE="position:absolute; TOP:230px; LEFT:25px; WIDTH:400px; HEIGHT:300px" SRC="images/global.jpg"> -->
 
-## Dr. C's undergraduate experiences...
-<hr>
-<br/>
+<!-- ## Dr. C's undergraduate experiences... -->
+<!-- <hr> -->
+<!-- <br/> -->
 
-<div style="float: left; width: 50%;">
+<!-- <div style="float: left; width: 50%;"> -->
 
-* **Study Abroad Costa Rica: Medicinal Plants**
-    + Paid for by summer work at golf course
-    + 5 week course in July
-    
-<br />
+<!-- * **Study Abroad Costa Rica: Medicinal Plants** -->
+<!--     + Paid for by summer work at golf course -->
+<!--     + 5 week course in July -->
 
-* **Study Abroad Costa Rica: Primate Behavior**
-    + Paid for by summer work at golf course
-    + 5 week course in December
+<!-- <br /> -->
 
-<br />
+<!-- * **Study Abroad Costa Rica: Primate Behavior** -->
+<!--     + Paid for by summer work at golf course -->
+<!--     + 5 week course in December -->
 
-* **Greenhouse internship at BASF (chemical corporation)**
-    + $7/hr - I was rich!!!
- 
-</div>
+<!-- <br /> -->
 
-<div style="float: right; width: 50%;">
- 
-**<span style="color:blue">Although I was too immature to know it at the time, these experiences defined by future path**</span>
+<!-- * **Greenhouse internship at BASF (chemical corporation)** -->
+<!--     + $7/hr - I was rich!!! -->
 
-</div>
+<!-- </div> -->
 
-<IMG STYLE="position:absolute; TOP:300px; LEFT:625px; WIDTH:300px; HEIGHT:300px" SRC="images/costacourt.jpg">
+<!-- <div style="float: right; width: 50%;"> -->
 
-## When should you start looking/applying???
-<hr>
-<br />
+<!-- **<span style="color:blue">Although I was too immature to know it at the time, these experiences defined by future path**</span> -->
 
-<div style="float: left; width: 80%;">
+<!-- </div> -->
 
-* **Power through your first year and focus on grades**
-    + Set a standard for yourself
-    + Don't be afraid to be excellent
+<!-- <IMG STYLE="position:absolute; TOP:300px; LEFT:625px; WIDTH:300px; HEIGHT:300px" SRC="images/costacourt.jpg"> -->
 
-<br />
+<!-- ## When should you start looking/applying??? -->
+<!-- <hr> -->
+<!-- <br /> -->
 
-* **Sophomore and Junior Years are ideal**
-    + You should be in a 'college groove'
-    + Many external programs target these years
-    + Enough time to complete meaningful independent research
-    + Build your resume in a sustainable way that also balances school
+<!-- <div style="float: left; width: 80%;"> -->
 
-<br />
+<!-- * **Power through your first year and focus on grades** -->
+<!--     + Set a standard for yourself -->
+<!--     + Don't be afraid to be excellent -->
 
-* <span style="color:blue">**These are just suggestions!!!**</span>
-    + Reflect on every semester and decide what you can, should and want to do
+<!-- <br /> -->
 
-</div>
+<!-- * **Sophomore and Junior Years are ideal** -->
+<!--     + You should be in a 'college groove' -->
+<!--     + Many external programs target these years -->
+<!--     + Enough time to complete meaningful independent research -->
+<!--     + Build your resume in a sustainable way that also balances school -->
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:620px; WIDTH:400px; HEIGHT:250px" SRC="images/started.jpg">
+<!-- <br /> -->
 
-## Where to start....
-<hr>
-<br />
-<span style="color:blue">**Don't worry...the different science departments at Shepherd have your back!!**</span>
+<!-- * <span style="color:blue">**These are just suggestions!!!**</span> -->
+<!--     + Reflect on every semester and decide what you can, should and want to do -->
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:200px; WIDTH:600px; HEIGHT:350px" SRC="images/scott.jpg">
+<!-- </div> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:190px; LEFT:620px; WIDTH:400px; HEIGHT:250px" SRC="images/started.jpg"> -->
+
+<!-- ## Where to start.... -->
+<!-- <hr> -->
+<!-- <br /> -->
+<!-- <span style="color:blue">**Don't worry...the different science departments at Shepherd have your back!!**</span> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:250px; LEFT:200px; WIDTH:600px; HEIGHT:350px" SRC="images/scott.jpg"> -->
 
 ## Shepherd: Many faculty run small research programs
 <hr>
@@ -380,29 +380,34 @@ output:
     
 <IMG STYLE="position:absolute; TOP:350px; LEFT:650px; WIDTH:410px; HEIGHT:150px;" SRC="images/nih.jpg">  
   
-## Just go for it!!
+<!-- ## Just go for it!! -->
+<!-- <hr> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:800px; HEIGHT:450px;" SRC="images/fishing.jpg"> -->
+
+<!-- ## Plug for Next Caps Series: Nov 15^th^ -->
+<!-- <hr> -->
+<!-- <br /> -->
+<!-- <br /> -->
+
+<!-- * **Preparing Your Application** -->
+<!--     + <span style="color:red">NEVER APPLY BLINDLY</span> -->
+<!--     + Let us review your application materials -->
+
+<!-- <br /> -->
+
+<!-- * **Be prepared to apply to many things!** -->
+<!--     + Get your application materials organized -->
+
+<!-- <br /> -->
+
+<!-- * **<span style="color:blue">See you next month!!</span>** -->
+
+<!-- <IMG STYLE="position:absolute; TOP:160px; LEFT:650px; WIDTH:400px; HEIGHT:300px" SRC="images/help.jpg"> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:450px; LEFT:350px; WIDTH:225px; HEIGHT:225px" SRC="images/send2.jpg"> -->
+
+## Scan Me!!
 <hr>
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:800px; HEIGHT:450px;" SRC="images/fishing.jpg">
-
-## Plug for Next Caps Series: Nov 15^th^
-<hr>
-<br />
-<br />
-
-* **Preparing Your Application**
-    + <span style="color:red">NEVER APPLY BLINDLY</span>
-    + Let us review your application materials
-
-<br />
-
-* **Be prepared to apply to many things!**
-    + Get your application materials organized
-
-<br />
-
-* **<span style="color:blue">See you next month!!</span>**
-
-<IMG STYLE="position:absolute; TOP:160px; LEFT:650px; WIDTH:400px; HEIGHT:300px" SRC="images/help.jpg">
-
-<IMG STYLE="position:absolute; TOP:450px; LEFT:350px; WIDTH:225px; HEIGHT:225px" SRC="images/send2.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:300px; WIDTH:450px; HEIGHT:450px;" SRC="images/qrcode_caps.png">  
