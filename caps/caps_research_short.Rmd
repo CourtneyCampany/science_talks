@@ -28,7 +28,7 @@ output:
     
 <br />
 
-* **Study Abroad programs**
+* **Study Abroad programs (contact Dr. Samuel Greene)**
     + Summer, semester and year long
 
 </div>
@@ -61,26 +61,26 @@ output:
 
 <IMG STYLE="position:absolute; TOP:240px; LEFT:15px; WIDTH:350px; HEIGHT:350px" SRC="images/why.jpg">
 
-<!-- ## Why should you pursue research opporunities? -->
-<!-- <hr> -->
-<!-- <br/> -->
-<!-- <br/> -->
-<!-- <br/> -->
+## Why should you pursue research opporunities?
+<hr>
+<br/>
+<br/>
+<br/>
 
-<!-- <div style="float: right; width: 60%;"> -->
+<div style="float: right; width: 60%;">
 
-<!-- * **Create a professional network** -->
-<!--     + Many future opportunities are created by YOU -->
-<!--     + Collaborations can last your whole career -->
+* **Create a professional network**
+    + Many future opportunities are created by YOU
+    + Collaborations can last your whole career
 
-<!-- <br /> -->
+<br />
 
-<!-- * **Broaden your horizons...** -->
-<!--     + Work with people from all background due to the global nature of science -->
+* **Broaden your horizons...**
+    + Work with people from all background due to the global nature of science
 
-<!-- </div> -->
+</div>
 
-<!-- <IMG STYLE="position:absolute; TOP:230px; LEFT:25px; WIDTH:400px; HEIGHT:300px" SRC="images/global.jpg"> -->
+<IMG STYLE="position:absolute; TOP:230px; LEFT:25px; WIDTH:400px; HEIGHT:300px" SRC="images/global.jpg">
 
 <!-- ## Dr. C's undergraduate experiences... -->
 <!-- <hr> -->
@@ -113,32 +113,32 @@ output:
 
 <!-- <IMG STYLE="position:absolute; TOP:300px; LEFT:625px; WIDTH:300px; HEIGHT:300px" SRC="images/costacourt.jpg"> -->
 
-<!-- ## When should you start looking/applying??? -->
-<!-- <hr> -->
-<!-- <br /> -->
+## When should you start looking/applying???
+<hr>
+<br />
 
-<!-- <div style="float: left; width: 80%;"> -->
+<div style="float: left; width: 80%;">
 
-<!-- * **Power through your first year and focus on grades** -->
-<!--     + Set a standard for yourself -->
-<!--     + Don't be afraid to be excellent -->
+* **Power through your first year and focus on grades**
+    + Set a standard for yourself
+    + Learn how to be a great college student
 
-<!-- <br /> -->
+<br />
 
-<!-- * **Sophomore and Junior Years are ideal** -->
-<!--     + You should be in a 'college groove' -->
-<!--     + Many external programs target these years -->
-<!--     + Enough time to complete meaningful independent research -->
-<!--     + Build your resume in a sustainable way that also balances school -->
+* **Sophomore and Junior Years are ideal**
+    + You should be in a 'college groove'
+    + Many external programs target these years
+    + Enough time to complete meaningful independent research
+    + Build your resume in a sustainable way that also balances school
 
-<!-- <br /> -->
+<br />
 
-<!-- * <span style="color:blue">**These are just suggestions!!!**</span> -->
-<!--     + Reflect on every semester and decide what you can, should and want to do -->
+* <span style="color:blue">**These are just suggestions!!!**</span>
+    + Reflect on every semester and decide what you can, should, and want to do
 
-<!-- </div> -->
+</div>
 
-<!-- <IMG STYLE="position:absolute; TOP:190px; LEFT:620px; WIDTH:400px; HEIGHT:250px" SRC="images/started.jpg"> -->
+<IMG STYLE="position:absolute; TOP:190px; LEFT:620px; WIDTH:400px; HEIGHT:250px" SRC="images/started.jpg">
 
 <!-- ## Where to start.... -->
 <!-- <hr> -->
@@ -177,11 +177,11 @@ output:
 <hr>
 <br />
 
-* **Shepherd Opportunities to Attract Research Students (SOARS) program**
+* **Shepherd Opportunities to Attract Research Students (SOARS)**
     + 10 week summer research program
     + Students receive a stipend (~$4,000)
     + Individual faculty mentors across STEM departments
-    + Research presented at WVAS conference
+    + Research often presented at WVAS conference
     + Applications and mentor list posted in January (due February)
 
 <br />
@@ -189,7 +189,7 @@ output:
 * **NASA West Virginia Space Grant Consortium fellowship program**
     + Students apply in September (all STEM fields)
     + Receive stipends for Fall and Spring research
-    + Present a poster at WVAS
+    + Research presented at WVAS conference
 
 <br />
 
@@ -200,7 +200,31 @@ output:
 
 <IMG STYLE="position:absolute; TOP:420px; LEFT:750px; WIDTH:250px; HEIGHT:250px" SRC="images/nasa.png">
 
-## Beyond Shepherd: Regional opportunties are vast
+## Beyond Shepherd: What is an REU?
+<hr>
+<br />
+
+* **REU stands for research experience for undergraduates**
+    + provide opportunities for undergraduates to participate in meaningful research
+    + purposefully remove the financial roadblocks to gaining research experience
+
+<br />
+
+* **REU's are sponsored by major science funders (NSF, NIH) but can also be hosted independently by scientific institutions**
+
+<br />
+
+* **REU's provide experiences in every science discipline**
+
+<br />
+
+* **Search "REU + insert your science field here". They are easy to find.**
+    + the NSF also has a central source of all their REU listings
+    
+
+<IMG STYLE="position:absolute; TOP:450px; LEFT:750px; WIDTH:250px; HEIGHT:200px" SRC="images/reu.png">
+
+## Beyond Shepherd: Regional opportunities are vast
 <hr>
 <br />
 
@@ -349,7 +373,7 @@ output:
 
 <br />
 
-* **NSF REU's are extremely competitive**
+* **NSF REU's are competitive**
     + Application window: November - February (you must actively search)
     + Likely need to apply for many in one cycle
     + Shepherd students are absolutely competitive!
