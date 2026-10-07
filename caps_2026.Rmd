@@ -1,0 +1,71 @@
+----
+title: "CAPS Seminar: Discovering Research Opportunities"
+output: 
+  ioslides_presentation:
+    css: custom.css
+    widescreen: true
+    smaller: true
+---
+## Beyond the classroom: Opportunities are vast
+<hr>
+<div style="float: left; width: 65%;">
+* **Research opportunities exist year round**
+    + Shepherd - Independent research (fall/spring)
+    + Local - Internships during the summer
+    + Regionally - Partnerships for West Virginia Students
+    + Nationally (and beyond) - Semester and summer programs
+    
+<br />
+* **Internships (paid or unpaid)**
+    + Industry
+    + Healthcare
+    + Animal Care
+    + Data Science
+    + Environmental
+    
+<br />
+* **Study Abroad programs (contact Dr. Samuel Greene)**
+    + Summer, semester and year long
+</div>
+<IMG STYLE="position:absolute; TOP:160px; LEFT:680px; WIDTH:375px; HEIGHT:500px" SRC="images/aquateam.jpg">
+## Why should you pursue research opportunities?
+<hr>
+<br/>
+<div style="float: right; width: 65%;">
+* **Test the waters...**
+    + Is this something I could see myself doing my whole career?
+    
+<br />
+* **Set your resume apart from others**
+    + STEM job market is competitive
+    + Post-graduate schools are competitive
+    + Graduating undergraduate resumes are 'light on content'
+    + Output from research = Currency for future opportunities
+    
+<br />
+* **Gain experience in chosen field...**
+    + embrace your natural science curiosity
+</div>
+<IMG STYLE="position:absolute; TOP:240px; LEFT:15px; WIDTH:350px; HEIGHT:350px" SRC="images/why.jpg">
+## Why should you pursue research opportunities?
+<hr>
+<br/>
+<br/>
+<br/>
+<div style="float: right; width: 60%;">
+* **Create a professional network**
+    + Many future opportunities are created by YOU
+    + Collaborations can last your whole career
+<br />
+* **Broaden your horizons...**
+    + Work with people from all backgrounds due to the global nature of science
+</div>
+<IMG STYLE="position:absolute; TOP:230px; LEFT:25px; WIDTH:400px; HEIGHT:300px" SRC="images/global.jpg">
+<!-- ## Dr. C's undergraduate experiences... -->
+<!-- <hr> -->
+<!-- <br/> -->
+<!-- <div style="float: left; width: 50%;"> -->
+<!-- * **Study Abroad Costa Rica: Medicinal Plants** -->
+<!--     + Paid for by summer work at golf course -->
+<!--     + 5 week course in July -->
+<!-- <br /> -->

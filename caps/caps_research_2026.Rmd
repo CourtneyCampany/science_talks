@@ -36,7 +36,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:680px; WIDTH:375px; HEIGHT:500px" SRC="images/aquateam.jpg">
 
-## Why should you pursue research opporunities?
+## Why should you pursue research opportunities?
 <hr>
 <br/>
 
@@ -77,7 +77,7 @@ output:
 <br />
 
 * **Broaden your horizons...**
-    + Work with people from all background due to the global nature of science
+    + Work with people from all backgrounds due to the global nature of science
 
 </div>
 
@@ -174,7 +174,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:150px; LEFT:775px; WIDTH:275px; HEIGHT:180px" SRC="images/turtle.jpg">
 
-## Shepherd University: Internal research programs
+## Shepherd University: Research fellowships with NASA
 <hr>
 <br />
 <br />
@@ -189,6 +189,7 @@ output:
 <br />
 
 * <span style="color:blue">**KEY ADVICE: Talk to potential mentors before applying**</span>
+    + you must have a mentor in place to apply
     
 
 <IMG STYLE="position:absolute; TOP:170px; LEFT:750px; WIDTH:250px; HEIGHT:250px" SRC="images/sheps.png">
@@ -199,14 +200,14 @@ output:
 <hr>
 <br />
 
-* **REU stands for research experience for undergraduates**
-    + provide opportunities for undergraduates to participate in meaningful research
-    + purposefully remove the financial roadblocks to gaining research experience
+* **REU stands for R.esearch E.xperience for U.ndergraduates**
+    + provide opportunities for undergraduates to participate in advanced research
 
 <br />
 
 * **REU's are sponsored by major science funders (NSF, NIH) but can also be hosted independently by scientific institutions**
-
+    +  programs designed to remove the financial roadblocks to gaining research experience
+    
 <br />
 
 * **REU's provide experiences in every science discipline**
@@ -231,7 +232,7 @@ output:
 <br />
 
 * **Program specifics (applications due early February)**
-    + Students receive a stipend (~$6,000)
+    + Students receive a stipend (~$7,000)
     + 9-week summer program
     + Work with faculty and graduate students
     + Present at research symposium
@@ -248,7 +249,7 @@ output:
 <hr>
 
 * **American Heart Association - Summer Research Program at Marshall University**
-    + https://jcesom.marshall.edu/research/office-of-research-and-graduate-education/research-clusters/cardiovascular-disease-research-cluster-cdrc/
+    + https://jcesom.marshall.edu/aha
     + 9-week summer research experience 
     + Students receive a stipend (~$6,000)
     + Research related to heart disease and stroke
@@ -263,7 +264,7 @@ output:
 
 * **Smithsonian Institution internships**
     + https://www.si.edu/ofi   
-    + Musuem - zoo - research
+    + museum,zoo, art history, etc.
     
 <IMG STYLE="position:absolute; TOP:225px; LEFT:730px; WIDTH:250px; HEIGHT:150px" SRC="images/ama.png">
 
@@ -286,13 +287,14 @@ output:
 
 * **Pathways Programs at the USDA**
     + https://www.usda.gov/youth/career
-    + Fruit research center near Kearneysville, WV
+    + LOCAL: Appalachian Fruit Research Station near Kearneysville, WV
     
 <br />
 
-**Get to know https://www.usajobs.gov/ for all federal gov't opportunities**
+**Get to know https://www.usajobs.gov/ for all federal gov't opportunities**  
+After graduation, use the **Recent Graduates** hiring path (typically within 2 years of graduation).
 
-<IMG STYLE="position:absolute; TOP:445px; LEFT:775px; WIDTH:300px; HEIGHT:300px" SRC="images/usajobs.jpg">
+<IMG STYLE="position:absolute; TOP:345px; LEFT:775px; WIDTH:300px; HEIGHT:300px" SRC="images/usajobs.jpg">
 
 <IMG STYLE="position:absolute; TOP:185px; LEFT:675px; WIDTH:250px; HEIGHT:100px" SRC="images/parthways.jpg">
     
@@ -309,7 +311,7 @@ output:
 
 <br />
 
-* **Proctor & Gample Internships:**
+* **Procter & Gamble Internships:**
     + https://www.pgcareers.com/internships
 
 <br />
@@ -319,7 +321,7 @@ output:
 
 <br />
 
-* **Search webpages of Millapore Sigma, Pfzier, BASF, Ecolab, EPA, Neogen, Gilead, Bristol Myers Squibb, 3M, GSK, Corteva, Amgen, AbbVie.**
+* **Search webpages of MilliporeSigma, Pfizer, BASF, Ecolab, EPA, Neogen, Gilead, Bristol Myers Squibb, 3M, GSK, Corteva, Amgen, AbbVie.**
     
 <IMG STYLE="position:absolute; TOP:320px; LEFT:550px; WIDTH:500px; HEIGHT:300px" SRC="images/industry.png">
 
@@ -356,8 +358,8 @@ output:
 <hr>
 * **National Science Foundation - Research Experience for Undergraduates**
     + https://www.nsf.gov/crssprgm/reu/reu_search.jsp
-    + Atudents receive a stipend (~$6,000)
-    + Assitance with travel and housing provided
+    + Students receive a stipend (~$6,000)
+    + Assistance with travel and housing provided
     + Provides additional career training
     + Groups of ~10 undergraduates at a host institution
 
@@ -376,11 +378,11 @@ output:
 
 <IMG STYLE="position:absolute; TOP:275px; LEFT:650px; WIDTH:410px; HEIGHT:150px;" SRC="images/reu.jpg">  
 
-## Gold Standard Opportunites: NIH-SIP
+## Gold Standard Opportunities: NIH-SIP
 <hr>
 <br />
 
-* **National Institute of Health - Summer Internship program**
+* **National Institutes of Health - Summer Internship Program**
     + https://www.training.nih.gov/programs/sip
     + Spend summer working with leading biomedical researchers
     + 8-week program with a stipend (changes yearly)
@@ -401,26 +403,26 @@ output:
 <IMG STYLE="position:absolute; TOP:350px; LEFT:650px; WIDTH:410px; HEIGHT:150px;" SRC="images/nih.jpg">  
 
 
-## Post-graduate research opportunities exist too
+## Post-baccalaureate research opportunities exist too
 <hr>
 
 <div style="float: left; width: 48%;">
 
-* **NIH Postbac Programs/Fellowship**
-    + several regional NIH campuses
+* **NIH Postbac Program — Bethesda/Frederick**
     + 1-2 years of paid research
+    + Includes NCI cancer-research opportunities
 
 <br />
 
-* **NIST (National Institute of Standards and Tech) PREP**
-    + 1 year well paid positions
+* **NIST (National Institute of Standards and Technology) PREP**
+    + paid postbac research positions
     + physics, engineering, chemistry, AI
 
 <br />
 
-* **National Cancer Institute**
-    + Cancer Research Training Award
-    + 1-2 years of paid research
+* **ORISE / Zintellect — Federal research fellowships**
+    + https://www.zintellect.com/
+    + Search across federal agencies and STEM fields
 
 </div>
 
@@ -474,9 +476,30 @@ output:
 
 <!-- <IMG STYLE="position:absolute; TOP:450px; LEFT:350px; WIDTH:225px; HEIGHT:225px" SRC="images/send2.jpg"> -->
 
+## How do I actually get one?
+<hr>
+<br />
+
+* **Start early and read the eligibility carefully**
+    + Many summer programs recruit months before they begin
+
+<br />
+
+* **Tailor your application to the opportunity**
+    + Show genuine interest in the research; do not send the same generic statement everywhere
+
+<br />
+
+* **Get your materials organized**
+    + Keep a current resume/CV and ask references well before the deadline
+
+<br />
+
+* **Apply broadly**
+    + Competitive programs reject many strong applicants — one application is rarely enough
 
 
 ## Scan Me!!
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:300px; WIDTH:450px; HEIGHT:450px;" SRC="images/qrcode_caps.png">  
+<IMG STYLE="position:absolute; TOP:200px; LEFT:300px; WIDTH:450px; HEIGHT:450px;" SRC="images/qrcode_caps.png">   
